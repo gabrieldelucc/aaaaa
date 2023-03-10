@@ -1,0 +1,32 @@
+/*imports de fonts*/
+
+/* Reset CSS*/
+
+.layout-grid {
+    margin: 0 auto;
+    width: 90%;
+    height: 100%;
+    border: 1px solid salmon;
+
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    background-color: #1b1416
+}
+
+header .header-top {
+    display: none;
+}
+
+header nav {
+    display: none;
+}
+
+header .menu-usuarios {
+
+    display: none;
+}
